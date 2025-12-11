@@ -1,47 +1,79 @@
-# Hey there! 👋 I'm Ayush Tandon  
-🚀 **Flutter Developer | App Development Enthusiast**  
-📱 **Passionate about Building Scalable Mobile Applications**  
-💼 **Open Source Contributor | Tech Explorer**  
+# 👋 Hey there! I'm **Ayush Tandon**  
+🚀 *Flutter Developer | AI/ML Enthusiast | Tech Explorer*  
 
-## 🚀 About Me  
-I'm **Ayush Tandon**, a passionate **Flutter developer** who loves creating dynamic and responsive mobile applications.  
-I specialize in **Dart & Flutter**, focusing on clean UI, smooth performance, and user-centric designs.  
+## 🌟 About Me  
+I'm **Ayush Tandon**, a passionate **Flutter developer** and an aspiring **AI/ML engineer** who enjoys building scalable, elegant, and impactful mobile applications.  
+I focus on **clean UI/UX**, performance-optimized apps, and exploring **AI/ML** for solving real-world problems.
 
-🎯 **Currently working on:**  
-📱 **Innovative Flutter Applications** that push the boundaries of UI/UX and performance.  
-🔬 **Lung Cancer Project** – Developing a mobile solution to aid in the detection and management of lung cancer, integrating advanced AI/ML techniques for better prediction and analysis.  
+💡 My goal is to create applications that don’t just work—but **feel great** to use and **deliver real value**.
 
 ---
 
-### 🛠️ Tech Stack  
-- **Languages & Frameworks:** Dart, Flutter  
-- **Tools & Platforms:** Firebase, GitHub, REST APIs  
-- **AI/ML:** Exploring machine learning models for healthcare applications, specifically lung cancer detection  
-- **UI/UX:** Material Design, Custom Animations  
-- **Other Interests:** Mobile App Performance Optimization, Open Source, and Problem-Solving  
+## 🚀 What I'm Working On  
+- 📱 Advanced **Flutter applications** with polished UI/UX  
+- 🤖 Exploring **AI/ML** models and integrating them into projects  
+- 🫁 **Lung Cancer Detection Project** using machine learning  
+- 🏡 **Real Estate Value Predictor** using regression-based ML models  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 **Languages & Frameworks**
+- Dart, Flutter  
+- Python  
+- NumPy, Pandas, Scikit-Learn  
+
+### ☁️ **Tools & Platforms**
+- Firebase  
+- GitHub  
+- REST APIs  
+- Streamlit  
+- SQLite, Hive  
+
+### 🤖 **AI / Machine Learning**
+- Regression & Classification Models  
+- Data Preprocessing & Feature Engineering  
+- Model Training, Evaluation & Deployment  
+
+### 🎨 **UI/UX**
+- Material Design  
+- Custom Animations  
+- Responsive Layouts  
 
 ---
 
 ## 🚀 Projects I’m Proud Of  
-Here are some of the exciting projects I've worked on:  
 
-✅ **🎲 Dice Rolling App** – A simple Flutter app that rolls a dice randomly on tap, using animations for a fun and interactive experience.  
+### 🎲 **Dice Rolling App**  
+A fun Flutter app that simulates rolling a dice with smooth animations.
 
-✅ **❓ Quiz App** – A dynamic quiz application built with Flutter, featuring multiple-choice questions, a scoring system, and engaging UI.  
+### ❓ **Quiz App**  
+A dynamic Flutter quiz application with scoring, transitions, and an engaging interface.
 
-✅ **🚖 Uber Clone Login Page** – A clean and modern Flutter UI replicating Uber’s login screen with proper authentication design.  
+### 🚖 **Uber Clone Login Page**  
+A clean and modern Flutter UI replicating Uber’s login screen.
 
-✅ **🫁 Lung Cancer Project** – Developing a mobile application to assist in the early detection and management of lung cancer using AI/ML models for prediction and analysis of medical data.  
+### 🫁 **Lung Cancer Detection App**  
+A healthcare-focused project that uses ML models to assist in early detection.
+
+### 🏡 **Real Estate Value Predictor** *(NEW)*  
+A machine learning–based project that predicts house values using:  
+- Python (Scikit-Learn)  
+- Streamlit UI  
+- Feature engineering (home age, living area, lot size, etc.)  
 
 ---
 
-## 📚 Learning & Experimenting  
-I'm always exploring new tech and refining my skills in:  
-🔹 **Advanced Flutter Features** – State management, animations, and performance tuning.  
-🔹 **Cross-Platform Development** – Experimenting with native integrations.  
-🔹 **AI & ML in Apps** – Exploring how AI can enhance mobile applications, with a focus on healthcare applications for lung cancer detection.  
+## 📚 Currently Learning  
+- Advanced Flutter State Management (BLoC, Riverpod, Provider)  
+- Neural Networks & Deep Learning  
+- Model optimization and ML workflows  
+- App performance tuning  
 
 ---
 
-## 🌍 Where You Can Find Me  
-🔗 **[GitHub](https://github.com/Droid-DevX)** – Check out my repositories and projects  
+## 🌍 Connect With Me  
+🔗 **GitHub:** https://github.com/Droid-DevX  
+
+---
