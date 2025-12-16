@@ -12,7 +12,7 @@ I focus on **clean UI/UX**, performance-optimized apps, and exploring **AI/ML** 
 ## 🚀 What I'm Working On  
 - 📱 Advanced **Flutter applications** with polished UI/UX  
 - 🤖 Exploring **AI/ML** models and integrating them into projects  
-- 🫁 **Lung Cancer Detection Project** using machine learning  
+- 🫁 **Lung Cancer Detection Project** using CNN  
 - 🏡 **Real Estate Value Predictor** using regression-based ML models  
 
 ---
