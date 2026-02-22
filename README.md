@@ -35,17 +35,21 @@ B.Tech – Mathematics & Computing
 ![MATLAB](https://img.shields.io/badge/MATLAB-ff7f00?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-## Machine Learning & Deep Learning
+## Framework & Libraries
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-Deep_Learning-blue?style=for-the-badge)
-![LSTM](https://img.shields.io/badge/LSTM-Sequence_Modeling-purple?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -54,24 +58,27 @@ B.Tech – Mathematics & Computing
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 # Featured Projects
 
-## CUK Commit
+## [CUK COMMIT](https://github.com/CUK-COMMIT)
 
 - Central University of Karnataka focused development project  
 - Real-world problem solving and system design  
 - Scalable architecture and clean implementation  
 
-## Real-Time Sign Language Recognition
 
+## [Real-Time Sign Language Recognition](https://github.com/Droid-DevX/Real-Time-Sign-Language-Recognition)
 - LSTM-based gesture recognition  
 - Sequence modeling with PyTorch  
 - Real-time inference pipeline  
 
-## Sports Image Classification (100 Classes)
+
+## [Sports Image Classification (100 Classes)](https://github.com/Droid-DevX/Sports_Image_classification)
 
 - Multi-class CNN training  
 - Large-scale image preprocessing  
@@ -110,7 +117,7 @@ B.Tech – Mathematics & Computing
 Actively seeking:
 
 - AI/ML Internships  
-- Deep Learning research roles  
+- Deep Learning & Re-Inforcment Learning research roles  
 - Applied Machine Learning projects  
 
 ---
