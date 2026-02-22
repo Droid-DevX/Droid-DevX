@@ -16,16 +16,10 @@ B.Tech – Mathematics & Computing
 
 ---
 
-## Profile Views
-
-![](https://komarev.com/ghpvc/?username=Droid-DevX&style=for-the-badge)
-
----
-
-# About Me
+## About Me
 
 - Mathematics & Computing undergraduate focused on AI  
-- Building complete ML pipelines from data → deployment  
+- Building end-to-end ML pipelines from data → deployment  
 - Strong foundation in applied machine learning  
 - Interested in real-world intelligent systems  
 
@@ -50,14 +44,8 @@ B.Tech – Mathematics & Computing
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
 ![CNN](https://img.shields.io/badge/CNN-Deep_Learning-blue?style=for-the-badge)
 ![LSTM](https://img.shields.io/badge/LSTM-Sequence_Modeling-purple?style=for-the-badge)
-
-- Regression and Classification  
-- Feature Engineering  
-- Model Evaluation  
-- Model Optimization  
 
 ---
 
@@ -71,67 +59,29 @@ B.Tech – Mathematics & Computing
 
 # Featured Projects
 
-## Smart Financial Forecasting System
+## CUK Commit
 
-- ML-based financial analysis and prediction  
-- Feature engineering and preprocessing pipeline  
-- Streamlit deployment  
-
----
-
-## House Price Prediction System
-
-- End-to-end regression pipeline  
-- Multiple model comparison  
-- Real-time prediction system  
-
----
-
-## Similar Name Finder (PyTorch)
-
-- Deep learning embeddings  
-- Semantic similarity matching  
-- Representation learning  
-
----
-
-## Sports Image Classification
-
-- Multi-class CNN training (100 categories)  
-- Image preprocessing pipeline  
-- Deep learning workflow  
-
----
-
-## Lung Cancer Prediction
-
-- Healthcare prediction using structured medical data  
-- Multiple ML models with evaluation  
-
----
-
-## Lung Cancer Classification
-
-- CNN-based medical image classification  
-- Upload → predict system  
-- Streamlit deployment  
-
----
+- Central University of Karnataka focused development project  
+- Real-world problem solving and system design  
+- Scalable architecture and clean implementation  
 
 ## Real-Time Sign Language Recognition
 
 - LSTM-based gesture recognition  
 - Sequence modeling with PyTorch  
-- Real-time inference  
+- Real-time inference pipeline  
+
+## Sports Image Classification (100 Classes)
+
+- Multi-class CNN training  
+- Large-scale image preprocessing  
+- Deep learning workflow  
 
 ---
 
 # GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Droid-DevX&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Droid-DevX&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Droid-DevX&theme=tokyonight&hide_border=true"/>
@@ -139,10 +89,10 @@ B.Tech – Mathematics & Computing
 
 ---
 
-# GitHub Trophies
+## GitHub Summary
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Droid-DevX&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Droid-DevX&theme=tokyonight"/>
 </p>
 
 ---
@@ -150,43 +100,21 @@ B.Tech – Mathematics & Computing
 # Contribution Graph
 
 <p align="center">
-<img src="https://github.com/Droid-DevX/Droid-DevX/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Droid-DevX/Droid-DevX/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
-
-# What Defines My Work
-
-- End-to-end ML system development  
-- Real-world domain applications  
-- Deployable AI solutions  
-- Strong mathematical foundation  
-- Multi-domain AI projects  
-
----
-
-# Currently Learning
-
-- Advanced deep learning architectures  
-- MLOps fundamentals  
-- Model optimization and scaling  
-- AI system design  
 
 ---
 
 # Open To Opportunities
 
-I am actively seeking:
+Actively seeking:
 
-- AI/ML internships  
+- AI/ML Internships  
 - Deep Learning research roles  
 - Applied Machine Learning projects  
-- Open-source collaborations  
-
-If you are looking for someone with strong fundamentals, real project experience, and a passion for intelligent systems, feel free to connect.
 
 ---
 
 # Connect
 
-GitHub: https://github.com/Droid-DevX
+Portfolio : [Initialize Portfolio.exe](https://droid-devx-portfolio.vercel.app/)
