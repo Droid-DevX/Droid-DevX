@@ -1,101 +1,192 @@
-# 👋 Hi, I’m **Ayush Tandon**
-🚀 *AI/ML Engineer in Progress | Flutter Developer | Applied Machine Learning Enthusiast*
+<h1 align="center">Ayush Tandon</h1>
+
+<p align="center">
+AI/ML Engineer in Progress | Applied Machine Learning | Deep Learning
+</p>
+
+<p align="center">
+B.Tech – Mathematics & Computing
+</p>
 
 ---
 
-## 🧠 About Me
-
-I'm **Ayush Tandon**, a **B.Tech (Mathematics & Computing)** student with a strong interest in **Artificial Intelligence and Machine Learning** and hands-on experience in **Flutter application development**.
-
-I enjoy building **intelligent, data-driven systems** and transforming ideas into **practical, scalable applications**. My focus is on applying **machine learning techniques** to real-world domains such as **finance, healthcare, and prediction systems**.
-
-💡 My goal is to design software that combines **clean architecture, strong ML foundations, and meaningful impact**.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Building+End-to-End+AI+Systems;Finance+%7C+Healthcare+%7C+Computer+Vision" />
+</p>
 
 ---
 
-## 🔬 Current Focus
+## Profile Views
 
-- 🤖 Machine Learning & Deep Learning  
-- 📊 Applied ML in finance and healthcare  
-- 🧠 Data preprocessing, feature engineering & model optimization  
-- 📱 AI/ML integration with Flutter applications  
+![](https://komarev.com/ghpvc/?username=Droid-DevX&style=for-the-badge)
 
 ---
 
-## 🛠️ Tech Stack
+# About Me
 
-### 💻 Programming & Frameworks
-- Python  
-- Dart / Flutter  
-
-### 🤖 AI / Machine Learning
-- NumPy, Pandas  
-- Scikit-Learn  
-- Regression & Classification  
-- CNNs & Neural Networks  
-- Model training, evaluation & optimization  
-
-### ☁️ Tools & Platforms
-- Streamlit  
-- Firebase  
-- Git & GitHub  
-- REST APIs  
-- SQLite, Hive  
-
-### 🎨 UI / Frontend
-- Flutter (Material Design)  
-- Responsive layouts & animations  
-- Clean and intuitive UI/UX  
+- Mathematics & Computing undergraduate focused on AI  
+- Building complete ML pipelines from data → deployment  
+- Strong foundation in applied machine learning  
+- Interested in real-world intelligent systems  
 
 ---
 
-## 🚀 Featured Projects
+# Tech Stack
 
-### 💰 **SmartFinancialSystem** ⭐
-An **AI-powered financial analysis system** focused on intelligent money management and predictive insights.
+## Programming Languages
 
-**Key Features:**
-- ML-based financial prediction and analysis  
-- Expense and transaction intelligence  
-- Data preprocessing & feature engineering  
-- Designed with scalability in mind  
-
----
-
-### 🫁 **Lung Cancer Detection System**
-A healthcare-focused **ML/DL project** aimed at assisting early-stage lung cancer detection.
-
-- CNN-based medical image analysis  
-- Focus on model accuracy and reliability  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ff7f00?style=for-the-badge&logo=Mathworks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
-### 🏡 **Real Estate Value Predictor**
-A machine learning system that predicts property prices using structured datasets.
+## Machine Learning & Deep Learning
 
-- Regression-based ML models  
-- Feature engineering (area, age, location, etc.)  
-- Interactive Streamlit interface  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
+![CNN](https://img.shields.io/badge/CNN-Deep_Learning-blue?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-Sequence_Modeling-purple?style=for-the-badge)
 
-### 📱 Flutter Projects
-- 🎲 Dice Rolling App  
-- ❓ Quiz App  
-- 🚖 Uber Clone Login UI  
-
----
-
-## 📚 Currently Learning
-
-- Deep Learning & Neural Networks  
-- Advanced ML workflows & pipelines  
-- Model deployment & optimization  
-- Flutter state management (BLoC, Riverpod)  
-- AI-powered mobile applications  
+- Regression and Classification  
+- Feature Engineering  
+- Model Evaluation  
+- Model Optimization  
 
 ---
 
-## 🌐 Connect With Me
+## Deployment & Tools
 
-🔗 **GitHub:** https://github.com/Droid-DevX
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+# Featured Projects
+
+## Smart Financial Forecasting System
+
+- ML-based financial analysis and prediction  
+- Feature engineering and preprocessing pipeline  
+- Streamlit deployment  
+
+---
+
+## House Price Prediction System
+
+- End-to-end regression pipeline  
+- Multiple model comparison  
+- Real-time prediction system  
+
+---
+
+## Similar Name Finder (PyTorch)
+
+- Deep learning embeddings  
+- Semantic similarity matching  
+- Representation learning  
+
+---
+
+## Sports Image Classification
+
+- Multi-class CNN training (100 categories)  
+- Image preprocessing pipeline  
+- Deep learning workflow  
+
+---
+
+## Lung Cancer Prediction
+
+- Healthcare prediction using structured medical data  
+- Multiple ML models with evaluation  
+
+---
+
+## Lung Cancer Classification
+
+- CNN-based medical image classification  
+- Upload → predict system  
+- Streamlit deployment  
+
+---
+
+## Real-Time Sign Language Recognition
+
+- LSTM-based gesture recognition  
+- Sequence modeling with PyTorch  
+- Real-time inference  
+
+---
+
+# GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Droid-DevX&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Droid-DevX&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Droid-DevX&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Droid-DevX&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+<img src="https://github.com/Droid-DevX/Droid-DevX/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# What Defines My Work
+
+- End-to-end ML system development  
+- Real-world domain applications  
+- Deployable AI solutions  
+- Strong mathematical foundation  
+- Multi-domain AI projects  
+
+---
+
+# Currently Learning
+
+- Advanced deep learning architectures  
+- MLOps fundamentals  
+- Model optimization and scaling  
+- AI system design  
+
+---
+
+# Open To Opportunities
+
+I am actively seeking:
+
+- AI/ML internships  
+- Deep Learning research roles  
+- Applied Machine Learning projects  
+- Open-source collaborations  
+
+If you are looking for someone with strong fundamentals, real project experience, and a passion for intelligent systems, feel free to connect.
+
+---
+
+# Connect
+
+GitHub: https://github.com/Droid-DevX
