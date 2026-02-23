@@ -113,6 +113,10 @@ B.Tech – Mathematics & Computing
 </p>
 
 ---
+# 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Droid-DevX&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
 
 # Open To Opportunities
 
