@@ -14,7 +14,9 @@ B.Tech – Mathematics & Computing
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Building+End-to-End+AI+Systems;Finance+%7C+Healthcare+%7C+Computer+Vision" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Droid-DevX&label=Profile%20views&color=bb9af7&style=for-the-badge" />
+</p>
 
 ## About Me
 
