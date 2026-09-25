@@ -198,45 +198,40 @@ B.Tech – Mathematics & Computing
 </p>
 
 ---
+---
 
-# Currently Working On
+# Focus Areas
 
-* Reinforcement Learning for quadruped locomotion
-*  Learning-based robotic manipulation
-*  Fault-tolerant aerial robotics
-*  Applied Deep Reinforcement Learning
-*  Retrieval-Augmented Generation without vector databases
+`Deep Reinforcement Learning` · `Robotics` · `Robot Control` · `Autonomous Systems`
 
+`Quadruped Locomotion` · `Robot Manipulation` · `Quadrotor Control` · `Fault-Tolerant Robotics`
+
+`Applied Machine Learning` · `Generative AI` · `Retrieval-Augmented Generation`
 
 ---
 
 # Open To Opportunities
 
-Actively seeking opportunities in:
+Looking for opportunities in:
 
-* **AI/ML Engineering**
-* **Deep Reinforcement Learning**
-* **Robotics & Autonomous Systems**
-* **Robotics Software Engineering**
-* **Research Internships**
-* **Applied AI / Generative AI**
+**Deep Reinforcement Learning** · **Robotics** · **AI/ML Engineering** · **Autonomous Systems** · **Robotics Software**
+
+Open to **internships, research roles, and applied engineering opportunities**.
 
 ---
 
-# Connect
-
 <p align="center">
 
-<a href="https://github.com/Droid-DevX">
-<img src="https://img.shields.io/badge/GitHub-Droid--DevX-181717?style=for-the-badge&logo=github" />
+<a href="https://www.linkedin.com/in/ayushtando/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-21262D?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://droid-devx-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-21262D?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-</p>
+<a href="https://drive.google.com/file/d/1xtXPj_zDdewkcjb6okUlvRm6ylyagCeE/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-View-21262D?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
 
-<p align="center">
-<b>Building intelligent systems where learning meets control.</b>
 </p>
