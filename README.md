@@ -52,84 +52,14 @@ B.Tech – Mathematics & Computing
 
 # Tech Stack
 
-## Reinforcement Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PPO-Deep%20RL-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SAC-Deep%20RL-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stable--Baselines3-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gymnasium-000000?style=for-the-badge" />
-</p>
-
-**Core:** `Policy Optimization` · `Reward Shaping` · `Curriculum Learning` · `Domain Randomization` · `Fault Injection`
-
----
-
-## Robotics & Control
-
-<p>
-  <img src="https://img.shields.io/badge/MuJoCo-Physics%20Simulation-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyBullet-Physics%20Simulation-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-</p>
-
-**Robotics:** `Robot Manipulation` · `Quadruped Locomotion` · `Quadrotor Control`
-
-**Control:** `Kinematics` · `PID` · `PD Control` · `Torque Control` · `Joint Position Control` · `Trajectory Control`
-
-**Simulation:** `Physics Simulation` · `Fault-Tolerant Control`
-
----
-
-## Machine Learning & Deep Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-`Deep Learning` · `Neural Networks` · `Supervised Learning` · `Computer Vision` · `Model Evaluation`
-
----
-
-## Programming & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
----
-
-## Generative AI & Retrieval
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/BM25-Information%20Retrieval-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Groq-LLM-000000?style=for-the-badge" />
-</p>
-
-`RAG` · `Information Retrieval` · `BM25` · `Document Processing` · `LLM Integration` · `Grounded Generation`
-
----
-
-## Development & Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-</p>
-
-`Git` · `REST APIs` · `FastAPI` · `Web Applications` · `Model Deployment`
-
+| Area | Tools & Concepts |
+|------|------------------|
+| **Reinforcement Learning** | PPO, SAC, Stable-Baselines3, Gymnasium, Reward Shaping, Curriculum Learning, Domain Randomization, Fault Injection |
+| **Robotics & Control** | MuJoCo, PyBullet, ROS2, Manipulation, Quadruped Locomotion, Quadrotor Control, Kinematics, PID/PD, Torque Control, Fault-Tolerant Control |
+| **ML & Deep Learning** | PyTorch, TensorFlow, Scikit-Learn, OpenCV, Neural Networks, Computer Vision, Model Evaluation |
+| **Programming & Data** | Python, C++, TypeScript, NumPy, Pandas |
+| **Generative AI & Retrieval** | FastAPI, React, BM25, Groq, RAG, LLM Integration, Grounded Generation |
+| **Development & Deployment** | Git, Streamlit, Vercel, Render, REST APIs, Model Deployment |
 # Featured Projects
 
 ## [Vision-Free Robotic Manipulation](https://github.com/Droid-DevX/Robotic_Manipulation_Using_PPO_PID)
